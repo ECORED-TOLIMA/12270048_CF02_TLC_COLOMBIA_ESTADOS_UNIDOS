@@ -1,1 +1,2 @@
-module.exports = 'Ecored Base PKG'
+module.exports =
+  'Variables comerciales, logísticas y operativas del comercio exterior'

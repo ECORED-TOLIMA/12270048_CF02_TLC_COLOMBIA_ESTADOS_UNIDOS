@@ -1,8 +1,9 @@
 export default {
   global: {
-    Name: 'Marco normativo y generalidades del TLC',
+    Name:
+      'Variables comerciales, logísticas y operativas del comercio exterior',
     Description:
-      'El programa TLC Colombia con Estados Unidos fortalece competencias en comercio exterior mediante el análisis del acuerdo, sus normas y oportunidades. A través de una metodología práctica con TIC y simulaciones, el aprendiz desarrolla habilidades para aplicar procesos de importación, exportación y estrategias comerciales, logrando tomar decisiones efectivas y desempeñarse con éxito en entornos internacionales competitivos.',
+      'Este componente formativo aborda la implementación de estrategias comerciales y logísticas en procesos de exportación e importación bajo el marco del TLC Colombia con Estados Unidos, fortaleciendo competencias para la toma de decisiones, optimización de recursos y cumplimiento normativo, con un enfoque en competitividad empresarial y acceso a los mercados internacionales.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
