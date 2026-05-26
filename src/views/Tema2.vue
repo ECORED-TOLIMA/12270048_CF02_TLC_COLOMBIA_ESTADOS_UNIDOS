@@ -71,7 +71,7 @@
       .col-lg-3.d-none.d-lg-block.order-2
         figure
           img(src='@/assets/curso/tema2/3.png', alt='', style="width: 290px").m-auto
-      .col-lg-8
+      .col-lg-9
         p En el comercio internacional, la presentación física del producto es mucho más que una cuestión estética. El embalaje, el envase y el empaque cumplen funciones técnicas, legales y comerciales que determinan si la mercancía supera la revisión aduanera, llega en buen estado al consumidor final y cumple con la normativa de la FDA y el CBP en el mercado estadounidense. Una falla en cualquiera de estos elementos puede generar rechazos en frontera, destrucción de la carga o pérdida del estatus de exportador habilitado, con consecuencias que van más allá de la operación específica.
 
         .row.align-items-center.justify-content-center
@@ -156,25 +156,25 @@
               
           .row(numero="2" titulo="Identificación del origen de la mercancía: ")
             .col-md-12.mb-4.mb-md-0
-              p Identificación del origen de la mercancía: marcación visible del país de procedencia exigida por las autoridades aduaneras.
+              p Marcación visible del país de procedencia exigida por las autoridades aduaneras.
               p #[b Ejemplo:] uso de la expresión “Made in Colombia” en el embalaje exterior. 
 
     
           .row(numero="3" titulo="Marcación logística y códigos de barras")
             .col-md-12.mb-4.mb-md-0
-              p Marcación logística y códigos de barras: sistemas utilizados para facilitar el control, almacenamiento y distribución internacional.
+              p Sistemas utilizados para facilitar el control, almacenamiento y distribución internacional.
               p #[b Ejemplo:] incorporación de códigos UPC para comercialización en EE. UU. 
 
 
           .row(numero="4" titulo="Aplicación de tratamientos fitosanitarios")
             .col-md-12.mb-4.mb-md-0
-              p Aplicación de tratamientos fitosanitarios: medidas sanitarias para prevenir el ingreso de plagas en materiales de madera.
+              p Medidas sanitarias para prevenir el ingreso de plagas en materiales de madera.
               p #[b Ejemplo:] uso del sello NIMF-15 en estibas y guacales. 
 
 
           .row(numero="5" titulo="Condiciones de manipulación y almacenamiento")
             .col-md-12.mb-4.mb-md-0
-              p Condiciones de manipulación y almacenamiento: instrucciones técnicas que permiten conservar la mercancía durante el transporte.
+              p Instrucciones técnicas que permiten conservar la mercancía durante el transporte.
               p #[b Ejemplo:] símbolos de carga frágil, orientación y protección contra humedad.
 
               
@@ -609,7 +609,8 @@
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/tema2/35.svg', style="width:128px ").img100.m-auto
-              p.text-center Auditorías internas preventivas
+              p.text-center 
+                b Auditorías internas preventivas
               p.text-center.mb-0 Revisión periódica de procesos para identificar errores antes de una inspección oficial.  
 
           p.mt-4 La aplicación de buenas prácticas aduaneras permite fortalecer el control documental, prevenir incumplimientos normativos y garantizar operaciones de comercio exterior más seguras, organizadas y ajustadas a la legislación vigente.

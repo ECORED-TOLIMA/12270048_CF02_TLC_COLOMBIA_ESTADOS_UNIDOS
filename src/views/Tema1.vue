@@ -181,18 +181,18 @@
     
             //-2da pestaña  
             .row(titulo="Investigación y notificación al socio comercial")
-              p Investigación y notificación al socio comercial: el TLC obliga a notificar a EE. UU. y ofrecer consultas antes de imponer medidas definitivas. Esto refleja el principio de transparencia y buena fe que rige el acuerdo.
+              p El TLC obliga a notificar a EE. UU. y ofrecer consultas antes de imponer medidas definitivas. Esto refleja el principio de transparencia y buena fe que rige el acuerdo.
             
             //-3ra pestaña
             .row(titulo="Determinación preliminar y medidas provisionales")
-              p Determinación preliminar y medidas provisionales: si hay indicios claros de daño inminente, se pueden imponer derechos provisionales, generalmente hasta 4 meses para antidumping, mientras continúa la investigación.
+              p Si hay indicios claros de daño inminente, se pueden imponer derechos provisionales, generalmente hasta 4 meses para antidumping, mientras continúa la investigación.
     
             //-4ra pestaña
             .row(titulo="Resolución definitiva")
-              p Resolución definitiva: concluida la investigación, se imponen medidas definitivas o se archiva el caso. Las medidas son específicas, proporcionales y sujetas a revisión periódica. El TLC establece límites de duración superiores a los que rigen en el marco de la OMC.
+              p Concluida la investigación, se imponen medidas definitivas o se archiva el caso. Las medidas son específicas, proporcionales y sujetas a revisión periódica. El TLC establece límites de duración superiores a los que rigen en el marco de la OMC.
 
             .row(titulo="Solución de controversias")
-              p Solución de controversias: si EE. UU. considera que Colombia aplicó una medida de forma indebida o viceversa, puede acudir al mecanismo de solución de diferencias del TLC o a los paneles de la OMC.
+              p Si EE. UU. considera que Colombia aplicó una medida de forma indebida o viceversa, puede acudir al mecanismo de solución de diferencias del TLC o a los paneles de la OMC.
 
     .row.justify-content-center.mt-4
       .col-lg-10
@@ -525,7 +525,7 @@
     
           .row(numero="2" titulo="Consultas entre gobiernos")
             .col-md-12.mb-4.mb-md-0
-              p Consultas entre gobiernos: los países analizan la situación y buscan una solución mediante el diálogo y la cooperación.
+              p Los países analizan la situación y buscan una solución mediante el diálogo y la cooperación.
               p.mb-0 - Se desarrolla en un plazo definido. 
               p.mb-0 - Se basa en principios de buena fe y colaboración. 
               p.mb-0 - Busca evitar la escalada del conflicto.
@@ -533,7 +533,7 @@
     
           .row(numero="3" titulo="Consejo de asuntos laborales")
             .col-md-12.mb-4.mb-md-0
-              p Consejo de asuntos laborales: si no se logra una solución, el caso se eleva a una instancia de nivel ministerial.
+              p Si no se logra una solución, el caso se eleva a una instancia de nivel ministerial.
               p.mb-0 - Participan representantes de ambos países. 
               p.mb-0 - Se promueve una solución concertada. 
               p.mb-0 - Permite mayor nivel de análisis y decisión.
@@ -541,7 +541,7 @@
 
           .row(numero="4" titulo="Panel arbitral")
             .col-md-12.mb-4.mb-md-0
-              p Panel arbitral: cuando persiste la controversia, se conforma un panel independiente de expertos.
+              p Cuando persiste la controversia, se conforma un panel independiente de expertos.
               p.mb-0 - Evalúa el caso de manera objetiva. 
               p.mb-0 - Emite una decisión vinculante. 
               p.mb-0 - Define si existe incumplimiento de las obligaciones laborales.
@@ -549,7 +549,7 @@
 
           .row(numero="5" titulo="Sanciones económicas")
             .col-md-12.mb-4.mb-md-0
-              p Sanciones económicas: si no se cumple la decisión del panel, se aplican medidas correctivas. 
+              p Si no se cumple la decisión del panel, se aplican medidas correctivas. 
               p.mb-0 - Multas económicas hasta el límite establecido. 
               p.mb-0 - Los recursos se destinan a mejorar el cumplimiento laboral. 
               p.mb-0 - Busca corregir el incumplimiento y prevenir su repetición. 
@@ -1046,7 +1046,8 @@
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/tema1/67.svg', style="width:128px ").img100.m-auto
-              p.text-center Cooperación técnica
+              p.text-center 
+                b Cooperación técnica
               p.text-center.mb-0 Ambos países se comprometen a compartir capacidades, intercambiar buenas prácticas y desarrollar programas conjuntos de fortalecimiento institucional ambiental. 
 
     .row.justify-content-center
@@ -1306,19 +1307,19 @@
     
           .row(numero="2" titulo="Arancel cero en insumos")
             .col-md-12.mb-4.mb-md-0
-              p Arancel cero en insumos: la importación de materias primas, insumos y maquinaria dentro de la zona franca no está sujeta al pago de aranceles, abaratando los costos de producción.
+              p La importación de materias primas, insumos y maquinaria dentro de la zona franca no está sujeta al pago de aranceles, abaratando los costos de producción.
     
           .row(numero="3" titulo="Exención de IVA")
             .col-md-12.mb-4.mb-md-0
-              p Exención de IVA: las ventas de bienes desde el territorio aduanero nacional hacia la zona franca no causan IVA, reduciendo los costos de la cadena de suministro interna.
+              p Las ventas de bienes desde el territorio aduanero nacional hacia la zona franca no causan IVA, reduciendo los costos de la cadena de suministro interna.
 
           .row(numero="4" titulo="Libre repatriación de utilidades")
             .col-md-12.mb-4.mb-md-0
-              p Libre repatriación de utilidades: los inversionistas pueden repatriar utilidades y capital sin restricciones de control de cambios, garantía reforzada por el Capítulo 10 del APC.
+              p Los inversionistas pueden repatriar utilidades y capital sin restricciones de control de cambios, garantía reforzada por el Capítulo 10 del APC.
 
           .row(numero="5" titulo="Reconocimiento mutuo OEA–C-TPAT")
             .col-md-12.mb-4.mb-md-0
-              p Reconocimiento mutuo OEA–C-TPAT: el acuerdo bilateral entre Colombia y EE. UU. permite a los operadores certificados OEA acceder a canales de despacho prioritario en el mercado estadounidense.
+              p El acuerdo bilateral entre Colombia y EE. UU. permite a los operadores certificados OEA acceder a canales de despacho prioritario en el mercado estadounidense.
     
       .col-lg-3.d-none.d-lg-block
         figure(data-aos="fade-up")
@@ -1841,19 +1842,19 @@
     
             //-2da pestaña  
             .row(titulo="Cobranza documentaria")
-              p Cobranza documentaria: modalidad en la que el banco gestiona la entrega de documentos comerciales a cambio del pago o aceptación del comprador.
+              p Modalidad en la que el banco gestiona la entrega de documentos comerciales a cambio del pago o aceptación del comprador.
               p #[b Ejemplo:] una empresa exportadora de confecciones entrega los documentos de embarque a través del banco para asegurar el cobro de la mercancía.
 
             
             //-3ra pestaña
             .row(titulo="Transferencia bancaria internacional")
-              p Transferencia bancaria internacional: pago directo realizado entre cuentas bancarias de diferentes países.
+              p Pago directo realizado entre cuentas bancarias de diferentes países.
               p #[b Ejemplo:] un importador en Estados Unidos transfiere el valor de una exportación de flores a la cuenta bancaria del exportador colombiano.
 
     
             //-4ra pestaña
             .row(titulo="Cuenta abierta")
-              p Cuenta abierta: modalidad en la que el exportador envía la mercancía antes de recibir el pago, confiando en el compromiso comercial del comprador.
+              p Modalidad en la que el exportador envía la mercancía antes de recibir el pago, confiando en el compromiso comercial del comprador.
               p #[b Ejemplo:] una empresa colombiana despacha productos agroindustriales y acuerda el pago a 30 días con el cliente estadounidense.
 
 

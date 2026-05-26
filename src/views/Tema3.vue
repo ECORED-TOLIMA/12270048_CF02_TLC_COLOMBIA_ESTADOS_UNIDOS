@@ -66,7 +66,7 @@
             figure
               img(src='@/assets/curso/tema3/6.svg', alt='Texto que describa la imagen')
           
-        h4.text-center Lección para otros sectores
+        h4.text-center Gestión comercial internacional
         p Análisis de condiciones de negociación y medios de pago utilizados en la exportación. 
         p #[b Ejemplo:] aplicación de Incoterms® y selección de carta de crédito o transferencia bancaria.
 
@@ -149,7 +149,7 @@
 
             thead(style="background-color: #D3E7E9")
               tr
-                th No.
+                th(style="width: 10% !important") No.
                 th Tarea
                 th Descripción detallada
                 th Herramienta / Fuente
@@ -158,37 +158,44 @@
               tr(style="background-color: #FBF7F1")
                 td.text-start 
                   b 1
-                td.text-start Sección
-                td.text-start Variable
-                td.text-start Sección II – Productos del reino vegetal.
+                td.text-start Selección del producto
+                td.text-start Elegir un producto colombiano con potencial exportador e identificar su subpartida arancelaria en MUISCA (DIAN).
+                td.text-start MUISCA – DIAN; Nomenclatura SA del DANE.
 
               tr
                 td.text-start 
                   b 2
-                td.text-start Capítulo
-                td.text-start 2
-                td.text-start Capítulo 06 – Plantas vivas y productos de floricultura.
+                td.text-start Verificación de origen
+                td.text-start Determinar si el producto cumple el criterio de origen del APC (totalmente obtenido, salto arancelario o VCR). Documentar el análisis.
+                td.text-start Capítulo 4 del APC; consultas DIAN.
 
               tr(style="background-color: #FBF7F1")
                 td.text-start
                   b 3
-                td.text-start Partida
-                td.text-start 4
+                td.text-start Arancel en EE. UU.
+                td.text-start Consultar la preferencia arancelaria del producto en el mercado estadounidense usando el <em>HTS (Harmonized Tariff Schedule of the US).</em>
                 td.text-start 0603 – Flores y capullos cortados.
 
               tr
                 td.text-start 
                   b 4
-                td.text-start Subpartida SA
-                td.text-start 6
-                td.text-start 0603.11 – Rosas frescas.
+                td.text-start Elaboración documental
+                td.text-start Preparar: factura comercial (precio FOB), lista de empaque, certificación de origen APC y <em>checklist</em> de requisitos FDA.
+                td.text-start Plantillas APC – Capítulo 4; formato FDA <em>Prior Notice.</em>
 
               tr(style="background-color: #FBF7F1")
                 td.text-start
                   b 5
-                td.text-start Subpartida DIAN
-                td.text-start 10
-                td.text-start 0603.11.00.00 – Subpartida arancelaria colombiana completa.
+                td.text-start Selección del Incoterm
+                td.text-start Definir el Incoterm 2020 más conveniente. Justificar la elección en función del modo de transporte y el perfil del comprador.
+                td.text-start Incoterms 2020 – Cámara de Comercio Internacional.
+
+              tr
+                td.text-start 
+                  b 6
+                td.text-start Liquidación de costos
+                td.text-start Calcular el precio de exportación (ex fábrica + flete interno + aduana + flete internacional + seguro) y el margen de rentabilidad.
+                td.text-start Cotizaciones de <em>freight forwarder</em>; tarifas portuarias.
 
 
     .row.align-items-center.mt-4.justify-content-center(data-aos="fade-down")
@@ -255,46 +262,116 @@
 
             thead(style="background-color: #D3E7E9")
               tr
-                th No.
-                th Tarea
-                th Descripción detallada
-                th Herramienta / Fuente
+                th(style="width: 10% !important") No.
+                th(style="width: 50% !important") Requisito de verificación
+                th ¿Cumple?
+                th Observación / Acción
 
             tbody
               tr(style="background-color: #FBF7F1")
                 td.text-start 
                   b 1
-                td.text-start Sección
-                td.text-start Variable
-                td.text-start Sección II – Productos del reino vegetal.
+                td.text-start El producto tiene subpartida arancelaria identificada y verificada en MUISCA.
+                td.text-start -
+                td.text-start -
 
               tr
                 td.text-start 
                   b 2
-                td.text-start Capítulo
-                td.text-start 2
-                td.text-start Capítulo 06 – Plantas vivas y productos de floricultura.
+                td.text-start La empresa está inscrita en el RUT con actividad exportadora.
+                td.text-start -
+                td.text-start -
 
               tr(style="background-color: #FBF7F1")
                 td.text-start
                   b 3
-                td.text-start Partida
-                td.text-start 4
-                td.text-start 0603 – Flores y capullos cortados.
+                td.text-start El producto cumple las reglas de origen del APC (análisis documentado).
+                td.text-start -
+                td.text-start -
 
               tr
                 td.text-start 
                   b 4
-                td.text-start Subpartida SA
-                td.text-start 6
-                td.text-start 0603.11 – Rosas frescas.
+                td.text-start La certificación de origen APC está firmada por el exportador autorizado.
+                td.text-start -
+                td.text-start -
 
               tr(style="background-color: #FBF7F1")
                 td.text-start
                   b 5
-                td.text-start Subpartida DIAN
-                td.text-start 10
-                td.text-start 0603.11.00.00 – Subpartida arancelaria colombiana completa.
+                td.text-start La factura comercial incluye: Incoterm, precio FOB y descripción completa.
+                td.text-start -
+                td.text-start -
+
+              tr(style="background-color: #FBF7F1")
+                td.text-start 
+                  b 6
+                td.text-start La lista de empaque detalla peso bruto/neto y dimensiones de cada bulto.
+                td.text-start -
+                td.text-start -
+
+              tr
+                td.text-start 
+                  b 7
+                td.text-start El certificado sanitario (ICA/INVIMA) está vigente y corresponde al lote.
+                td.text-start -
+                td.text-start -
+
+              tr(style="background-color: #FBF7F1")
+                td.text-start
+                  b 8
+                td.text-start El <em>Prior Notice</em> de la FDA fue enviado y confirmado (aplica para alimentos).
+                td.text-start -
+                td.text-start -
+
+              tr
+                td.text-start 
+                  b 9
+                td.text-start El etiquetado cumple requisitos FDA (inglés, información nutricional, alérgenos).
+                td.text-start -
+                td.text-start -
+
+              tr(style="background-color: #FBF7F1")
+                td.text-start
+                  b 10
+                td.text-start Las estibas de madera tienen sello NIMF-15 (tratamiento térmico verificado).
+                td.text-start -
+                td.text-start -
+
+              tr(style="background-color: #FBF7F1")
+                td.text-start 
+                  b 11
+                td.text-start El embalaje tiene marcación de país de origen: 'Made in Colombia'.
+                td.text-start -
+                td.text-start -
+
+              tr
+                td.text-start 
+                  b 12
+                td.text-start La DEX fue aprobada por la DIAN antes del embarque.
+                td.text-start -
+                td.text-start -
+
+              tr(style="background-color: #FBF7F1")
+                td.text-start
+                  b 13
+                td.text-start El conocimiento de embarque (BL/AWB/MIC) coincide con la factura y la DEX.
+                td.text-start -
+                td.text-start -
+
+              tr
+                td.text-start 
+                  b 14
+                td.text-start Se firmó la póliza de seguro de carga internacional para el trayecto completo.
+                td.text-start -
+                td.text-start -
+
+              tr(style="background-color: #FBF7F1")
+                td.text-start
+                  b 15
+                td.text-start Las divisas se canalizarán a través del sistema financiero en el plazo reglamentario.
+                td.text-start -
+                td.text-start -
 
 
 
@@ -405,25 +482,25 @@
     
           .row(numero="2" titulo="Implementación de sistemas de trazabilidad")
             .col-md-12.mb-4.mb-md-0
-              p Implementación de sistemas de trazabilidad: control de información durante todas las etapas de producción y distribución.
+              p Control de información durante todas las etapas de producción y distribución.
               p #[b Ejemplo:] identificación de lotes exportados desde el origen hasta el comprador final. 
 
     
           .row(numero="3" titulo="Uso de empaques sostenibles")
             .col-md-12.mb-4.mb-md-0
-              p Uso de empaques sostenibles: incorporación de materiales reciclables o biodegradables en la presentación del producto.
+              p Incorporación de materiales reciclables o biodegradables en la presentación del producto.
               p #[b Ejemplo:] utilización de empaques ecológicos para exportación de frutas frescas. 
 
 
           .row(numero="4" titulo="Fortalecimiento de procesos logísticos")
             .col-md-12.mb-4.mb-md-0
-              p Fortalecimiento de procesos logísticos: mejora en tiempos de entrega y control de transporte internacional.
+              p Mejora en tiempos de entrega y control de transporte internacional.
               p #[b Ejemplo:] coordinación logística para reducir retrasos en despachos internacionales. 
 
 
           .row(numero="5" titulo="Seguimiento de tendencias del mercado")
             .col-md-12.mb-4.mb-md-0
-              p Seguimiento de tendencias del mercado: análisis de preferencias de consumo y comportamiento comercial.
+              p Análisis de preferencias de consumo y comportamiento comercial.
               p #[b Ejemplo:] adaptación de productos según nuevas demandas del mercado estadounidense. 
     
       .col-lg-3.d-none.d-lg-block
