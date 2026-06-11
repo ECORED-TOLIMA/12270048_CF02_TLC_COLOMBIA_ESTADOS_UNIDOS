@@ -154,7 +154,7 @@
 
               p #[b Ejemplo:] declaración de alérgenos y tamaño de porción en alimentos procesados. 
               
-          .row(numero="2" titulo="Identificación del origen de la mercancía: ")
+          .row(numero="2" titulo="Identificación del origen de la mercancía")
             .col-md-12.mb-4.mb-md-0
               p Marcación visible del país de procedencia exigida por las autoridades aduaneras.
               p #[b Ejemplo:] uso de la expresión “Made in Colombia” en el embalaje exterior. 
