@@ -121,7 +121,7 @@
                 .col-auto
                   .py-2.px-3
                     p.mb-0 #[b Salvaguardias]
-                    p Protección ante aumentos súbitos de importaciones. Medidas temporales (máx. 3–4 años) que se activan sin necesidad de comprobar práctica desleal. El APC contempla una salvaguardia bilateral especial agrícola para productos sensibles: arroz, azúcar y carne de pollo.
+                    p.text-left Protección ante aumentos súbitos de importaciones. Medidas temporales (máx. 3–4 años) que se activan sin necesidad de comprobar práctica desleal. El APC contempla una salvaguardia bilateral especial agrícola para productos sensibles: arroz, azúcar y carne de pollo.
     
     
       .col-10.col-md-6.col-lg-4.mb-4.mb-md-0(data-aos="fade-right")
@@ -133,7 +133,7 @@
                 .col-auto
                   .py-2.px-3
                     p.mb-0 <b><em>Antidumping</em></b>
-                    p Respuesta al comercio a precios artificialmente bajos. Requiere prueba de dumping más daño. La investigación es adelantada por el Ministerio de Comercio con concepto del Comité de Prácticas Comerciales. Es específica por empresa/país y revisada anualmente.
+                    p.text-left Respuesta al comercio a precios artificialmente bajos. Requiere prueba de dumping más daño. La investigación es adelantada por el Ministerio de Comercio con concepto del Comité de Prácticas Comerciales. Es específica por empresa/país y revisada anualmente.
     
       .col-10.col-md-6.col-lg-4.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta-avatar
@@ -144,7 +144,7 @@
                 .col-auto
                   .py-2.px-3
                     p.mb-0 #[b Subvenciones (medidas compensatorias)]
-                    p Corrección de ventajas artificiales otorgadas por el Estado. Se aplica cuando el gobierno del país exportador subsidia directa o indirectamente a sus productores. Colombia puede investigar y contrarrestar subsidios del gobierno estadounidense al sector agrícola.
+                    p.text-left Corrección de ventajas artificiales otorgadas por el Estado. Se aplica cuando el gobierno del país exportador subsidia directa o indirectamente a sus productores. Colombia puede investigar y contrarrestar subsidios del gobierno estadounidense al sector agrícola.
 
 
 
@@ -227,26 +227,22 @@
 
             tbody
               tr(style="background-color: #FBF7F1")
-                td.text-start 
-                  b Medida <em>antidumping</em>
+                td.text-start  Medida <em>antidumping</em>
                 td.text-start Arancel adicional cuando un exportador vende a precios inferiores a su costo de producción o al precio en su mercado doméstico.
                 td.text-start Requiere investigación del Comité de Prácticas Comerciales (Mincit). Debe demostrarse daño a la industria nacional.
 
               tr
-                td.text-start 
-                  b Derechos compensatorios
+                td.text-start  Derechos compensatorios
                 td.text-start Contrarrestar las subvenciones gubernamentales otorgadas por el país exportador a sus productores.
                 td.text-start Se aplica cuando se comprueba que el gobierno del país de origen subsidia directa o indirectamente al exportador.
 
               tr(style="background-color: #FBF7F1")
-                td.text-start
-                  b Medida de salvaguardia bilateral
+                td.text-start Medida de salvaguardia bilateral
                 td.text-start Suspensión temporal o reducción de las preferencias arancelarias del TLC ante un aumento imprevisto de importaciones.
                 td.text-start Aplicable durante el período de transición del TLC si las importaciones causan daño grave a un sector productivo.
 
               tr
-                td.text-start 
-                  b Salvaguardia agrícola especial
+                td.text-start  Salvaguardia agrícola especial
                 td.text-start Mecanismo específico para productos sensibles: maíz, arroz, carne, lácteos.
                 td.text-start Se activa automáticamente cuando el volumen importado supera el umbral de activación o el precio cae bajo el precio de referencia.
 
@@ -321,7 +317,7 @@
             .row.align-items-center
               .col-lg-12
                 .cajon.color2.p-4
-                  p.text-center Principio rector: el capítulo laboral del TLC establece obligaciones jurídicamente vinculantes para que ambos países garanticen y hagan cumplir sus propias leyes laborales, elevando los estándares mínimos a las normas fundamentales de la OIT.
+                  p.mb-0 Principio rector: el capítulo laboral del TLC establece obligaciones jurídicamente vinculantes para que ambos países garanticen y hagan cumplir sus propias leyes laborales, elevando los estándares mínimos a las normas fundamentales de la OIT.
 
 
 
@@ -391,8 +387,8 @@
               .row.justify-content-center.mb-3
                 .col-auto
                   .py-2.px-3
-                    p.mb-0 #[b Aplicación efectiva]
-                    p Cumplimiento de las normas mediante inspección y sanción. 
+                    p #[b Aplicación efectiva]
+                    p.text-left Cumplimiento de las normas mediante inspección y sanción. 
     
     
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
@@ -403,8 +399,8 @@
               .row.justify-content-center.mb-3
                 .col-auto
                   .py-2.px-3
-                    p.mb-0 <b>Transparencia</b>
-                    p Acceso claro a los procedimientos laborales. 
+                    p <b>Transparencia</b>
+                    p.text-left Acceso claro a los procedimientos laborales. 
     
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta-avatar
@@ -414,8 +410,8 @@
               .row.justify-content-center.mb-3
                 .col-auto
                   .py-2.px-3
-                    p.mb-0 #[b Acceso a la justicia]
-                    p Garantía de revisión y resolución de conflictos. 
+                    p #[b Acceso a la justicia]
+                    p.text-left Garantía de revisión y resolución de conflictos. 
 
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta-avatar
@@ -425,8 +421,8 @@
               .row.justify-content-center.mb-3
                 .col-auto
                   .py-2.px-3
-                    p.mb-0 #[b Participación social]
-                    p Intervención de actores en el seguimiento.
+                    p #[b Participación social]
+                    p.text-left Intervención de actores en el seguimiento.
 
 
 
@@ -562,13 +558,13 @@
       .col-lg-10
         .row.justify-content-center
           .col-10.col-md-6.col-lg-10.mb-4.mb-md-0(data-aos="fade-right")
-            .tarjeta-avatar
+            .tarjeta-avatar.tarjeta-avatar2
               img(src='@/assets/curso/tema1/34.svg' style="width: 100px").m-auto
               .tarjeta.color-primario.shadow
                 .p-4
                   .row.justify-content-center.mb-3
                     .col-auto
-                      .py-2.px-3
+                      .py-2.px-3.text
                         p.mb-0 #[b El Plan de Acción Laboral reúne medidas para fortalecer la protección de los derechos laborales, promover la formalización del empleo y consolidar la institucionalidad del sector trabajo, apoyando el cumplimiento de los compromisos laborales.]
 
 
@@ -595,38 +591,33 @@
 
             thead(style="background-color: #D3E7E9")
               tr
-                th Compromiso laboral APC (Cap. 17)
+                th Compromiso laboral APC <br>(Cap. 17)
                 th Obligación para Colombia
                 th Organismo de seguimiento
 
             tbody
               tr(style="background-color: #FBF7F1")
-                td.text-start 
-                  b Libertad de asociación y negociación colectiva
+                td.text-start  Libertad de asociación y negociación colectiva
                 td.text-start Garantizar el derecho de los trabajadores a organizarse en sindicatos y negociar sin represalias.
                 td.text-start OIT, Ministerio del Trabajo, punto de contacto bilateral del APC.
 
               tr
-                td.text-start 
-                  b Eliminación del trabajo forzoso
+                td.text-start  Eliminación del trabajo forzoso
                 td.text-start Prohibir toda forma de trabajo obligatorio o forzado.
                 td.text-start OIT, Defensoría del Pueblo, Congreso de EE. UU.
 
               tr(style="background-color: #FBF7F1")
-                td.text-start
-                  b Abolición del trabajo infantil
+                td.text-start Abolición del trabajo infantil
                 td.text-start Establecer y hacer cumplir la edad mínima de trabajo y erradicar las peores formas de trabajo infantil.
                 td.text-start ICBF, OIT, Ministerio del Trabajo.
 
               tr
-                td.text-start 
-                  b No discriminación laboral
+                td.text-start  No discriminación laboral
                 td.text-start Garantizar igualdad de trato en el empleo sin distinción de sexo, raza, religión o afiliación sindical.
                 td.text-start Ministerio del Trabajo, UARIV, OIT.
 
               tr(style="background-color: #FBF7F1")
-                td.text-start
-                  b Condiciones de trabajo aceptables
+                td.text-start Condiciones de trabajo aceptables
                 td.text-start Fijar y cumplir normas sobre salario mínimo, jornada laboral y condiciones de seguridad y salud en el trabajo. 
                 td.text-start Ministerio del Trabajo, inspecciones de trabajo.
 
@@ -732,8 +723,8 @@
               .row.justify-content-center.mb-3
                 .col-auto
                   .py-2.px-3
-                    p.mb-0 #[b Arancel]
-                    p Impuesto aplicado a las mercancías importadas o exportadas, cuyo valor puede incorporarse al precio final del producto. 
+                    p #[b Arancel]
+                    p.text-left Impuesto aplicado a las mercancías importadas o exportadas, cuyo valor puede incorporarse al precio final del producto. 
     
     
       .col-10.col-md-6.col-lg-4.mb-4.mb-md-0(data-aos="fade-right")
@@ -744,8 +735,8 @@
               .row.justify-content-center.mb-3
                 .col-auto
                   .py-2.px-3
-                    p.mb-0 <b>Medida sanitaria</b>
-                    p Requisito técnico y sanitario establecido para proteger la salud humana, animal o vegetal durante los procesos de comercio internacional.
+                    p <b>Medida sanitaria</b>
+                    p.text-left Requisito técnico y sanitario establecido para proteger la salud humana, animal o vegetal durante los procesos de comercio internacional.
 
 
 
@@ -867,13 +858,13 @@
       .col-lg-10
         .row.justify-content-center
           .col-10.col-md-6.col-lg-10.mb-4.mb-md-0(data-aos="fade-right")
-            .tarjeta-avatar
+            .tarjeta-avatar.tarjeta-avatar2
               img(src='@/assets/curso/tema1/52.svg' style="width: 100px").m-auto
               .tarjeta.color-primario.shadow
                 .p-4
                   .row.justify-content-center.mb-3
                     .col-auto
-                      .py-2.px-3
+                      .py-2.px-3.text
                         p.mb-0 #[b El acceso al mercado estadounidense depende del cumplimiento de los requisitos sanitarios y fitosanitarios exigidos por las entidades regulatorias. Estas condiciones fortalecen la competitividad y sostenibilidad de las exportaciones colombianas.]
 
 
@@ -1006,41 +997,36 @@
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/tema1/61.svg', style="width:128px ").img100.m-auto
-              p.text-center
-                  b Soberanía regulatoria
-              p.text-center.mb-0 Cada país conserva el derecho de fijar sus propios niveles de protección ambiental, sin que el TLC imponga estándares específicos externos.
+              p.text-center Soberanía regulatoria
+              p.mb-0 Cada país conserva el derecho de fijar sus propios niveles de protección ambiental, sin que el TLC imponga estándares específicos externos.
                     
             .tarjeta.bg-08.p-4
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/tema1/62.svg', style="width:128px ").img100.m-auto
-              p.text-center
-                  b No regresión ambiental
-              p.text-center.mb-0 Está prohibido debilitar normas ambientales para atraer inversión o facilitar el comercio, preservando los estándares ambientales vigentes.
+              p.text-center No regresión ambiental
+              p.mb-0 Está prohibido debilitar normas ambientales para atraer inversión o facilitar el comercio, preservando los estándares ambientales vigentes.
                     
             .tarjeta.bg-08.p-4
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/tema1/63.svg', style="width:128px ").img100.m-auto
-              p.text-center
-                  b Reconocimiento de acuerdos multilaterales
-              p.text-center.mb-0 El TLC respalda el cumplimiento de tratados ambientales internacionales orientados a la protección de la biodiversidad, los ecosistemas y los recursos naturales.
+              p.text-center Reconocimiento de acuerdos multilaterales
+              p.mb-0 El TLC respalda el cumplimiento de tratados ambientales internacionales orientados a la protección de la biodiversidad, los ecosistemas y los recursos naturales.
                     
             .tarjeta.bg-08.p-4
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/tema1/64.svg', style="width:128px ").img100.m-auto
-              p.text-center
-                  b Participación ciudadana
-              p.text-center.mb-0 Las personas y organizaciones pueden presentar comunicaciones sobre incumplimientos ambientales ante las autoridades competentes de cada país.
+              p.text-center Participación ciudadana
+              p.mb-0 Las personas y organizaciones pueden presentar comunicaciones sobre incumplimientos ambientales ante las autoridades competentes de cada país.
                     
             .tarjeta.bg-08.p-4
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/tema1/65.svg', style="width:128px ").img100.m-auto
-              p.text-center
-                  b Transparencia
-              p.text-center.mb-0 Los procedimientos ambientales deben ser públicos, imparciales y accesibles para todos los actores interesados.
+              p.text-center Transparencia
+              p.mb-0 Los procedimientos ambientales deben ser públicos, imparciales y accesibles para todos los actores interesados.
                     
             .tarjeta.bg-08.p-4
               .row.justify-content-center.mb-3
@@ -1048,7 +1034,7 @@
                   img(src='@/assets/curso/tema1/67.svg', style="width:128px ").img100.m-auto
               p.text-center 
                 b Cooperación técnica
-              p.text-center.mb-0 Ambos países se comprometen a compartir capacidades, intercambiar buenas prácticas y desarrollar programas conjuntos de fortalecimiento institucional ambiental. 
+              p.mb-0 Ambos países se comprometen a compartir capacidades, intercambiar buenas prácticas y desarrollar programas conjuntos de fortalecimiento institucional ambiental. 
 
     .row.justify-content-center
       .col-lg-10
@@ -1093,8 +1079,8 @@
               .row.justify-content-center.mb-3
                 .col-auto
                   .py-2.px-3
-                    p.mb-0 #[b Cobros retroactivos de aranceles]
-                    p Pago obligatorio de tributos aduaneros no cancelados debido a errores en la clasificación del producto.
+                    p #[b Cobros retroactivos de aranceles]
+                    p.text-left Pago obligatorio de tributos aduaneros no cancelados debido a errores en la clasificación del producto.
     
     
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
@@ -1105,8 +1091,8 @@
               .row.justify-content-center.mb-3
                 .col-auto
                   .py-2.px-3
-                    p.mb-0 <b>Intereses</b>
-                    p Valores adicionales generados por el retraso en el pago de obligaciones aduaneras exigidas por la autoridad competente.
+                    p <b>Intereses</b>
+                    p.text-left Valores adicionales generados por el retraso en el pago de obligaciones aduaneras exigidas por la autoridad competente.
 
 
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
@@ -1117,8 +1103,8 @@
               .row.justify-content-center.mb-3
                 .col-auto
                   .py-2.px-3
-                    p.mb-0 <b>Multas</b>
-                    p Sanciones económicas impuestas por incumplimientos relacionados con la normatividad aduanera y comercial.
+                    p <b>Multas</b>
+                    p.text-left Sanciones económicas impuestas por incumplimientos relacionados con la normatividad aduanera y comercial.
 
 
 
@@ -1130,8 +1116,8 @@
               .row.justify-content-center.mb-3
                 .col-auto
                   .py-2.px-3
-                    p.mb-0 <b>Procesos por contrabando técnico</b>
-                    p Investigaciones administrativas o judiciales originadas por inconsistencias en la información declarada ante la DIAN.
+                    p <b>Procesos por contrabando técnico</b>
+                    p.text-left Investigaciones administrativas o judiciales originadas por inconsistencias en la información declarada ante la DIAN.
 
 
 
@@ -1167,43 +1153,38 @@
 
             thead(style="background-color: #D3E7E9")
               tr
-                th Nivel
+                th(style="width: 10% !important") Nivel
                 th Denominación
-                th No. dígitos
+                th(style="width: 10% !important") No. dígitos
                 th Ejemplo: flores frescas (rosas)
 
             tbody
               tr(style="background-color: #FBF7F1")
-                td.text-start 
-                  b 1
+                td.text-start  1
                 td.text-start Sección
                 td.text-start Variable
                 td.text-start Sección II – Productos del reino vegetal.
 
               tr
-                td.text-start 
-                  b 2
+                td.text-start  2
                 td.text-start Capítulo
                 td.text-start 2
                 td.text-start Capítulo 06 – Plantas vivas y productos de floricultura.
 
               tr(style="background-color: #FBF7F1")
-                td.text-start
-                  b 3
+                td.text-start 3
                 td.text-start Partida
                 td.text-start 4
                 td.text-start 0603 – Flores y capullos cortados.
 
               tr
-                td.text-start 
-                  b 4
+                td.text-start  4
                 td.text-start Subpartida SA
                 td.text-start 6
                 td.text-start 0603.11 – Rosas frescas.
 
               tr(style="background-color: #FBF7F1")
-                td.text-start
-                  b 5
+                td.text-start 5
                 td.text-start Subpartida DIAN
                 td.text-start 10
                 td.text-start 0603.11.00.00 – Subpartida arancelaria colombiana completa.
@@ -1230,8 +1211,8 @@
               .tarjeta.bg-1.rounded-0.h-100
                 .tarjeta.bg-white.p-4
                   TarjetaAudio.color-acento-botones.bg-white.mb-3(
-                  texto="Pódcast"
-                  :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+                  texto="Clasificación y estudio arancelario en el TLC Colombia con Estados Unidos "
+                  :audio="require('@/assets/componentes/audios/podcast.mp3')"
                 )
 
 
@@ -1350,26 +1331,22 @@
 
             tbody
               tr(style="background-color: #FBF7F1")
-                td.text-start 
-                  b Zona Franca Permanente (ZFP)
+                td.text-start  Zona Franca Permanente (ZFP)
                 td.text-start Área delimitada, múltiples usuarios. Regulada por la DIAN (Decreto 2147/2016).
                 td.text-start Tarifa única de renta del 20 %. Posibilidad de exportar a EE. UU. con preferencias del TLC si el producto cumple reglas de origen.
 
               tr
-                td.text-start 
-                  b Zona Franca Permanente Especial (ZFPE)
+                td.text-start  Zona Franca Permanente Especial (ZFPE)
                 td.text-start Un solo usuario o empresa de gran escala (refinería, aeropuerto, agroindustrial).
                 td.text-start Los mismos beneficios de la ZFP; especialmente útil para grandes exportadores agroindustriales.
 
               tr(style="background-color: #FBF7F1")
-                td.text-start
-                  b Zona Franca Transitoria (ZFT)
+                td.text-start Zona Franca Transitoria (ZFT)
                 td.text-start Habilitada temporalmente para ferias, exposiciones o eventos comerciales.
                 td.text-start Permite exhibir y negociar productos sin pagar aranceles durante el evento.
 
               tr
-                td.text-start 
-                  b Zona de Desarrollo Económico Empresarial (ZDEE)
+                td.text-start  Zona de Desarrollo Económico Empresarial (ZDEE)
                 td.text-start Nuevo instrumento (Ley 2135/2021) orientado a zonas apartadas.
                 td.text-start Incentivos tributarios diferenciados para atraer inversión en regiones con baja actividad exportadora.
 
@@ -1380,13 +1357,13 @@
       .col-lg-10
         .row.justify-content-center
           .col-10.col-md-6.col-lg-10.mb-4.mb-md-0(data-aos="fade-right")
-            .tarjeta-avatar
+            .tarjeta-avatar.tarjeta-avatar2
               img(src='@/assets/curso/tema1/82.svg' style="width: 100px").m-auto
               .tarjeta.color-primario.shadow
                 .p-4
                   .row.justify-content-center.mb-3
                     .col-auto
-                      .py-2.px-3
+                      .py-2.px-3.text
                         p.mb-0 #[b Las zonas francas fortalecen la competitividad exportadora mediante beneficios tributarios, aduaneros y logísticos que facilitan el aprovechamiento de las preferencias del TLC.]
 
 
@@ -1407,41 +1384,36 @@
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/tema1/83.svg', style="width:128px ").img100.m-auto
-              p.text-center
-                  b Bogotá – Zona Franca de Bogotá
-              p.text-center.mb-0 Es la zona franca más grande del país. Se especializa en manufactura, logística y servicios, con conexión estratégica al aeropuerto El Dorado para operaciones de exportación hacia Estados Unidos.
+              p.text-center Bogotá – Zona Franca de Bogotá
+              p.mb-0 Es la zona franca más grande del país. Se especializa en manufactura, logística y servicios, con conexión estratégica al aeropuerto El Dorado para operaciones de exportación hacia Estados Unidos.
 
             .tarjeta.bg-08.p-4
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/tema1/84.svg', style="width:128px ").img100.m-auto
-              p.text-center
-                  b Valle del Cauca – Zona Franca del Pacífico
-              p.text-center.mb-0 Ubicada en una zona estratégica para el comercio por el océano Pacífico. Se destaca en manufactura ligera, agroindustria y logística de contenedores hacia Estados Unidos y Asia. 
+              p.text-center Valle del Cauca – Zona Franca del Pacífico
+              p.mb-0 Ubicada en una zona estratégica para el comercio por el océano Pacífico. Se destaca en manufactura ligera, agroindustria y logística de contenedores hacia Estados Unidos y Asia. 
                     
             .tarjeta.bg-08.p-4
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/tema1/85.svg', style="width:128px ").img100.m-auto
-              p.text-center
-                  b Atlántico – Zona Franca de Barranquilla
-              p.text-center.mb-0 Es una de las zonas francas más antiguas del país. Cuenta con conexión marítima y fluvial para exportaciones de petroquímica, plásticos y alimentos procesados. 
+              p.text-center Atlántico – Zona Franca de Barranquilla
+              p.mb-0 Es una de las zonas francas más antiguas del país. Cuenta con conexión marítima y fluvial para exportaciones de petroquímica, plásticos y alimentos procesados. 
                     
             .tarjeta.bg-08.p-4
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/tema1/86.svg', style="width:128px ").img100.m-auto
-              p.text-center
-                  b Antioquia – Zona Franca de Rionegro
-              p.text-center.mb-0 Ubicada cerca del aeropuerto José María Córdova. Se especializa en flores, textiles y carga aérea con orientación exportadora. 
+              p.text-center Antioquia – Zona Franca de Rionegro
+              p.mb-0 Ubicada cerca del aeropuerto José María Córdova. Se especializa en flores, textiles y carga aérea con orientación exportadora. 
                     
             .tarjeta.bg-08.p-4
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/tema1/87.svg', style="width:128px ").img100.m-auto
-              p.text-center
-                  b Santander – Zona Franca de Santander
-              p.text-center.mb-0 Funciona como centro logístico del nororiente colombiano. Se enfoca en manufactura de calzado, confecciones y productos metalmecánicos con destino a mercados internacionales. 
+              p.text-center Santander – Zona Franca de Santander
+              p.mb-0 Funciona como centro logístico del nororiente colombiano. Se enfoca en manufactura de calzado, confecciones y productos metalmecánicos con destino a mercados internacionales. 
                     
 
 
@@ -1590,8 +1562,8 @@
               .row.justify-content-center.mb-3
                 .col-auto
                   .py-2.px-3
-                    p.mb-0 #[b Riesgo de apreciación del peso]
-                    p Se presenta cuando el peso colombiano se fortalece frente al dólar, reduciendo el valor en pesos recibido por las exportaciones. 
+                    p #[b Riesgo de apreciación del peso]
+                    p.text-left Se presenta cuando el peso colombiano se fortalece frente al dólar, reduciendo el valor en pesos recibido por las exportaciones. 
     
     
       .col-10.col-md-6.col-lg-4.mb-4.mb-md-0(data-aos="fade-right")
@@ -1602,8 +1574,8 @@
               .row.justify-content-center.mb-3
                 .col-auto
                   .py-2.px-3
-                    p.mb-0 <b>Riesgo de depreciación del peso</b>
-                    p Ocurre cuando el dólar aumenta frente al peso colombiano, incrementando los costos de importación y de los insumos adquiridos en moneda extranjera. 
+                    p <b>Riesgo de depreciación del peso</b>
+                    p.text-left Ocurre cuando el dólar aumenta frente al peso colombiano, incrementando los costos de importación y de los insumos adquiridos en moneda extranjera. 
 
 
       .col-10.col-md-6.col-lg-4.mb-4.mb-md-0(data-aos="fade-right")
@@ -1614,8 +1586,8 @@
               .row.justify-content-center.mb-3
                 .col-auto
                   .py-2.px-3
-                    p.mb-0 <b>Oportunidad de cobertura cambiaria</b>
-                    p Permite utilizar instrumentos financieros para reducir la incertidumbre y proteger las operaciones frente a las variaciones de la tasa de cambio.
+                    p <b>Oportunidad de cobertura cambiaria</b>
+                    p.text-left Permite utilizar instrumentos financieros para reducir la incertidumbre y proteger las operaciones frente a las variaciones de la tasa de cambio.
 
 
 
@@ -1641,7 +1613,7 @@
             .h2 1
           p.text-center 
             b <em>Forward</em> de divisas
-          p.text-center Contrato financiero que permite fijar anticipadamente el tipo de cambio para una compra o venta futura de dólares. 
+          p Contrato financiero que permite fijar anticipadamente el tipo de cambio para una compra o venta futura de dólares. 
 
       .col-md-6.col-xl.mb-4.mb-xl-0
         .tarjeta-numerada.color-secundario.p-5.h-100
@@ -1649,7 +1621,7 @@
             .h2 2
           p.text-center 
             b Opciones cambiarias (<em>call y put</em>)
-          p.text-center Instrumentos que otorgan el derecho de comprar o vender divisas a un precio previamente establecido. 
+          p Instrumentos que otorgan el derecho de comprar o vender divisas a un precio previamente establecido. 
 
       .col-md-6.col-xl.mb-4.mb-xl-0
         .tarjeta-numerada.color-acento-contenido.p-5.h-100
@@ -1657,7 +1629,7 @@
             .h2 3
           p.text-center 
             b <em>Swap</em> de divisas
-          p.text-center Acuerdo financiero utilizado para intercambiar flujos de dinero en diferentes monedas durante un periodo determinado.
+          p Acuerdo financiero utilizado para intercambiar flujos de dinero en diferentes monedas durante un periodo determinado.
 
       .col-md-6.col-xl.mb-4.mb-xl-0
         .tarjeta-numerada.color-acento-botones.p-5.h-100
@@ -1665,7 +1637,7 @@
             .h2 4
           p.text-center 
             b Cuenta en dólares en Colombia
-          p.text-center Mecanismo autorizado para recibir pagos internacionales y administrar divisas bajo las condiciones del régimen cambiario colombiano.
+          p Mecanismo autorizado para recibir pagos internacionales y administrar divisas bajo las condiciones del régimen cambiario colombiano.
 
     p.mt-4 El uso de instrumentos de cobertura cambiaria permite reducir riesgos financieros y fortalecer la planeación económica de las operaciones realizadas en el comercio internacional.
 
@@ -1755,26 +1727,22 @@
 
             tbody
               tr(style="background-color: #FBF7F1")
-                td.text-start 
-                  b Tasa de cambio representativa del mercado (TRM)
+                td.text-start  Tasa de cambio representativa del mercado (TRM)
                 td.text-start Precio promedio ponderado del USD en el mercado interbancario colombiano. Publicada por el Banco de la República.
                 td.text-start Base para convertir el valor FOB de exportaciones y CIF de importaciones a pesos en la declaración de aduana.
 
               tr
-                td.text-start 
-                  b Canalización de divisas
+                td.text-start  Canalización de divisas
                 td.text-start Obligación de canalizar los pagos de operaciones de comercio exterior a través del sistema financiero.
                 td.text-start El exportador debe reintegrar las divisas recibidas por exportaciones en los plazos establecidos.
 
               tr(style="background-color: #FBF7F1")
-                td.text-start
-                  b Cobertura cambiaria (<em>hedge</em>)
+                td.text-start Cobertura cambiaria (<em>hedge</em>)
                 td.text-start Instrumento financiero (<em>forward</em>, opciones, futuros) para fijar el tipo de cambio futuro y reducir riesgo.
                 td.text-start Recomendable para exportadores con contratos de largo plazo en USD; permite planear el flujo de caja.
 
               tr
-                td.text-start 
-                  b Régimen cambiario (Res. DCIN-83)
+                td.text-start  Régimen cambiario (Res. DCIN-83)
                 td.text-start Marco normativo que regula las operaciones de compra y venta de divisas en Colombia.
                 td.text-start Define las operaciones que deben declararse ante el Banco de la República (Formulario No. 1).
 
@@ -1891,36 +1859,31 @@
 
             tbody
               tr(style="background-color: #FBF7F1")
-                td.text-start 
-                  b Carta de crédito (L/C)
+                td.text-start  Carta de crédito (L/C)
                 td.text-start Garantía bancaria que asegura el pago al exportador si cumple los términos documentales pactados.
                 td.text-start Alta seguridad para el exportador; el banco responde.
                 td.text-start Costo financiero elevado. Exige cumplimiento documental estricto.
 
               tr
-                td.text-start 
-                  b Cobranza documentaria
+                td.text-start  Cobranza documentaria
                 td.text-start Los bancos gestionan los documentos para que el importador pague o acepte antes de recibirlos.
                 td.text-start Mayor seguridad que pago anticipado. Menor costo que L/C.
                 td.text-start El banco no garantiza el pago si el importador rechaza los documentos.
 
               tr(style="background-color: #FBF7F1")
-                td.text-start
-                  b Transferencia bancaria (<em>wire</em>)
+                td.text-start Transferencia bancaria (<em>wire</em>)
                 td.text-start Pago electrónico directo del importador al exportador, previo o posterior al embarque.
                 td.text-start Rapidez y bajo costo. Muy común en relaciones de confianza.
                 td.text-start Riesgo de no pago para el exportador si es posterior al embarque.
 
               tr
-                td.text-start 
-                  b Cuenta abierta (<em>Open Account</em>)
+                td.text-start  Cuenta abierta (<em>Open Account</em>)
                 td.text-start El exportador despacha primero y el importador paga en una fecha futura acordada.
                 td.text-start Facilita la relación comercial y amplía el mercado.
                 td.text-start Mayor riesgo de no pago; requiere seguro de crédito exportador.
 
               tr(style="background-color: #FBF7F1")
-                td.text-start
-                  b Financiación Bancóldex
+                td.text-start Financiación Bancóldex
                 td.text-start Líneas de crédito para exportadores con tasas preferenciales del banco de comercio exterior colombiano.
                 td.text-start Capital de trabajo para producción exportable. Plazos flexibles.
                 td.text-start Requiere cumplir condiciones de elegibilidad y garantías.
@@ -1978,8 +1941,8 @@
               .row.justify-content-center.mb-3
                 .col-auto
                   .py-2.px-3
-                    p.mb-0 #[b Registro en plataformas oficiales]
-                    p Inscripción en sistemas autorizados de contratación pública de Estados Unidos. 
+                    p #[b Registro en plataformas oficiales]
+                    p.text-left Inscripción en sistemas autorizados de contratación pública de Estados Unidos. 
     
     
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
@@ -1990,8 +1953,8 @@
               .row.justify-content-center.mb-3
                 .col-auto
                   .py-2.px-3
-                    p.mb-0 <b>Cumplimiento técnico y financiero</b>
-                    p Acreditación de capacidades técnicas, jurídicas y económicas según cada convocatoria. 
+                    p <b>Cumplimiento técnico y financiero</b>
+                    p.text-left Acreditación de capacidades técnicas, jurídicas y económicas según cada convocatoria. 
 
 
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
@@ -2002,8 +1965,8 @@
               .row.justify-content-center.mb-3
                 .col-auto
                   .py-2.px-3
-                    p.mb-0 <b>Obtención de identificación empresarial</b>
-                    p Registro y validación de la información requerida para participar en licitaciones internacionales. 
+                    p <b>Obtención de identificación empresarial</b>
+                    p.text-left Registro y validación de la información requerida para participar en licitaciones internacionales. 
 
 
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
@@ -2014,8 +1977,8 @@
               .row.justify-content-center.mb-3
                 .col-auto
                   .py-2.px-3
-                    p.mb-0 <b>Conocimiento de las condiciones contractuales</b>
-                    p Revisión de requisitos, montos y condiciones establecidos para cada proceso de contratación.
+                    p <b>Conocimiento de las condiciones contractuales</b>
+                    p.text-left Revisión de requisitos, montos y condiciones establecidos para cada proceso de contratación.
 
 
 

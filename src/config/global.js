@@ -283,7 +283,7 @@ export default {
     {
       referencia:
         'Ministerio de Comercio, Industria y Turismo [MinCIT]. (2012). <em>Acuerdo de Promoción Comercial entre la República de Colombia y los Estados Unidos de América: texto oficial en español</em>. MinCIT. <u></u>',
-      link: 'https://www.tlc.gov.co',
+      link: '',
     },
     {
       referencia:

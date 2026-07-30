@@ -130,13 +130,13 @@
       .col-lg-10
         .row.justify-content-center
           .col-10.col-md-6.col-lg-10.mb-4.mb-md-0(data-aos="fade-right")
-            .tarjeta-avatar
+            .tarjeta-avatar.tarjeta-avatar2
               img(src='@/assets/curso/tema2/9.svg' style="width: 100px").m-auto
               .tarjeta.color-primario.shadow
                 .p-4
                   .row.justify-content-center.mb-3
                     .col-auto
-                      .py-2.px-3
+                      .py-2.px-3.text
                         p.mb-0 #[b La preparación física de las mercancías es un proceso estratégico en el comercio exterior, ya que permite garantizar la conservación del producto, el cumplimiento normativo y la adecuada manipulación de la carga durante el transporte internacional.]
 
     p.mt-4 Además de los requisitos relacionados con el envase, el empaque y el embalaje, las operaciones de exportación hacia Estados Unidos requieren controles complementarios orientados a garantizar la identificación, trazabilidad y seguridad de las mercancías durante el proceso logístico internacional. Entre los principales aspectos de verificación se encuentran los siguientes:
@@ -266,7 +266,7 @@
                   img(src='@/assets/curso/tema2/15.svg', style="width:128px ").img100.m-auto
               p.text-center
                   b Factura comercial
-              p.text-center.mb-0 Describe la mercancía, indica el precio unitario y total, el Incoterm 2020 pactado y los datos completos del exportador e importador. Es la base para la liquidación del arancel en EE. UU.
+              p.mb-0 Describe la mercancía, indica el precio unitario y total, el Incoterm 2020 pactado y los datos completos del exportador e importador. Es la base para la liquidación del arancel en EE. UU.
 
             .tarjeta.bg-08.p-4
               .row.justify-content-center.mb-3
@@ -274,7 +274,7 @@
                   img(src='@/assets/curso/tema2/16.svg', style="width:128px ").img100.m-auto
               p.text-center
                   b Lista de empaque (<em>packing list</em>)
-              p.text-center.mb-0 Complementa la factura con el detalle físico de la carga: peso bruto y neto, dimensiones, número de bultos y contenido de cada uno.
+              p.mb-0 Complementa la factura con el detalle físico de la carga: peso bruto y neto, dimensiones, número de bultos y contenido de cada uno.
 
             .tarjeta.bg-08.p-4
               .row.justify-content-center.mb-3
@@ -282,7 +282,7 @@
                   img(src='@/assets/curso/tema2/17.svg', style="width:128px ").img100.m-auto
               p.text-center
                   b Declaración de exportación (DEX)
-              p.text-center.mb-0 Trámite ante la DIAN que autoriza la salida definitiva de la mercancía del territorio aduanero colombiano.
+              p.mb-0 Trámite ante la DIAN que autoriza la salida definitiva de la mercancía del territorio aduanero colombiano.
                     
             .tarjeta.bg-08.p-4
               .row.justify-content-center.mb-3
@@ -290,7 +290,7 @@
                   img(src='@/assets/curso/tema2/18.svg', style="width:128px ").img100.m-auto
               p.text-center
                   b Certificación de origen APC
-              p.text-center.mb-0 Emitida por el exportador bajo autocertificación. Acredita que el producto cumple las reglas de origen del Capítulo 4 del APC y permite al importador solicitar el arancel preferencial ante el CBP.
+              p.mb-0 Emitida por el exportador bajo autocertificación. Acredita que el producto cumple las reglas de origen del Capítulo 4 del APC y permite al importador solicitar el arancel preferencial ante el CBP.
                     
             .tarjeta.bg-08.p-4
               .row.justify-content-center.mb-3
@@ -298,29 +298,32 @@
                   img(src='@/assets/curso/tema2/19.svg', style="width:128px ").img100.m-auto
               p.text-center
                   b Conocimiento de embarque (BL / AWB / MIC-DTA)
-              p.text-center.mb-0 Contrato de transporte y título de propiedad de la mercancía. Debe coincidir en todos sus datos con la factura y la DEX.
+              p.mb-0 Contrato de transporte y título de propiedad de la mercancía. Debe coincidir en todos sus datos con la factura y la DEX.
                     
             .tarjeta.bg-08.p-4
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/tema2/20.svg', style="width:128px ").img100.m-auto
-              p.text-center Certificado sanitario (ICA/INVIMA)
-              p.text-center.mb-0 Exigido por el CBP para productos agropecuarios y alimenticios. Certifica el cumplimiento de estándares sanitarios de la autoridad colombiana.
+              p.text-center 
+                b Certificado sanitario (ICA/INVIMA)
+              p.mb-0 Exigido por el CBP para productos agropecuarios y alimenticios. Certifica el cumplimiento de estándares sanitarios de la autoridad colombiana.
 
 
             .tarjeta.bg-08.p-4
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/tema2/21.svg', style="width:128px ").img100.m-auto
-              p.text-center <em>Prior Notice</em> (FDA)
-              p.text-center.mb-0 Aviso previo de llegada de alimentos a EE. UU. Mínimo 2 horas para carga aérea y 4 horas para carga marítima y terrestre.
+              p.text-center 
+                b <em>Prior Notice</em> (FDA)
+              p.mb-0 Aviso previo de llegada de alimentos a EE. UU. Mínimo 2 horas para carga aérea y 4 horas para carga marítima y terrestre.
 
             .tarjeta.bg-08.p-4
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/tema2/22.svg', style="width:128px ").img100.m-auto
-              p.text-center Póliza de seguro de carga internacional
-              p.text-center.mb-0 Protege al exportador o importador contra pérdida o daño durante el tránsito internacional, según el Incoterm acordado.
+              p.text-center 
+                b Póliza de seguro de carga internacional
+              p.mb-0 Protege al exportador o importador contra pérdida o daño durante el tránsito internacional, según el Incoterm acordado.
 
           .row.justify-content-center.mt-4
             .col-lg-10
@@ -447,61 +450,52 @@
             thead(style="background-color: #D3E7E9")
               tr
                 th Infracción
-                th Gravedad
+                th(style="width: 10% !important") Gravedad
                 th Sanción típica
 
             tbody
               tr(style="background-color: #FBF7F1")
-                td.text-start 
-                  b Subvaloración o sobrevaloración de mercancías.
+                td.text-start  Subvaloración o sobrevaloración de mercancías.
                 td.text-start Gravísima
                 td.text-start Multa + aprehensión de mercancía.
 
               tr
-                td.text-start 
-                  b Falsa descripción de mercancías en la declaración.
+                td.text-start  Falsa descripción de mercancías en la declaración.
                 td.text-start Gravísima
                 td.text-start Multa hasta 1.000 UVT + decomiso.
 
               tr(style="background-color: #FBF7F1")
-                td.text-start
-                  b Certificado de origen falso o adulterado.
+                td.text-start Certificado de origen falso o adulterado.
                 td.text-start Penal
                 td.text-start Pérdida beneficio TLC + proceso penal.
 
               tr
-                td.text-start 
-                  b No presentación de declaración de importación.
+                td.text-start  No presentación de declaración de importación.
                 td.text-start Gravísima
                 td.text-start Aprehensión y decomiso de la mercancía.
 
               tr(style="background-color: #FBF7F1")
-                td.text-start
-                  b Incumplimiento de obligaciones del OEA.
+                td.text-start Incumplimiento de obligaciones del OEA.
                 td.text-start Grave
                 td.text-start Suspensión o cancelación de la habilitación.
 
               tr
-                td.text-start 
-                  b Errores en la clasificación arancelaria.
+                td.text-start  Errores en la clasificación arancelaria.
                 td.text-start Grave
                 td.text-start Multa + cobro de arancel diferencial.
 
               tr(style="background-color: #FBF7F1")
-                td.text-start
-                  b Incumplimiento de plazos de reexportación.
+                td.text-start Incumplimiento de plazos de reexportación.
                 td.text-start Grave
                 td.text-start Multa + causación de tributos aduaneros.
 
               tr
-                td.text-start 
-                  b Contrabando abierto o técnico.
+                td.text-start  Contrabando abierto o técnico.
                 td.text-start Penal
                 td.text-start Privación de libertad hasta 10 años.
 
               tr(style="background-color: #FBF7F1")
-                td.text-start
-                  b Omisión de información en declaración de valor.
+                td.text-start Omisión de información en declaración de valor.
                 td.text-start Leve
                 td.text-start Multa de 1 a 10 UVT.
 
@@ -571,7 +565,7 @@
                   img(src='@/assets/curso/tema2/30.svg', style="width:128px ").img100.m-auto
               p.text-center
                   b Verificación documental
-              p.text-center.mb-0 Revisión previa de facturas, certificados, declaraciones y documentos soporte de la operación. 
+              p.mb-0 Revisión previa de facturas, certificados, declaraciones y documentos soporte de la operación. 
 
             .tarjeta.bg-08.p-4
               .row.justify-content-center.mb-3
@@ -579,7 +573,7 @@
                   img(src='@/assets/curso/tema2/31.svg', style="width:128px ").img100.m-auto
               p.text-center
                   b Clasificación arancelaria correcta
-              p.text-center.mb-0 Identificación adecuada de la subpartida arancelaria para evitar sanciones o cobros adicionales. 
+              p.mb-0 Identificación adecuada de la subpartida arancelaria para evitar sanciones o cobros adicionales. 
 
             .tarjeta.bg-08.p-4
               .row.justify-content-center.mb-3
@@ -587,7 +581,7 @@
                   img(src='@/assets/curso/tema2/32.svg', style="width:128px ").img100.m-auto
               p.text-center
                   b Control de reglas de origen
-              p.text-center.mb-0 Validación de los requisitos exigidos para acceder a las preferencias del TLC. 
+              p.mb-0 Validación de los requisitos exigidos para acceder a las preferencias del TLC. 
                     
             .tarjeta.bg-08.p-4
               .row.justify-content-center.mb-3
@@ -595,7 +589,7 @@
                   img(src='@/assets/curso/tema2/33.svg', style="width:128px ").img100.m-auto
               p.text-center
                   b Organización de archivos y soportes
-              p.text-center.mb-0 Conservación ordenada de documentos físicos y digitales para auditorías o revisiones. 
+              p.mb-0 Conservación ordenada de documentos físicos y digitales para auditorías o revisiones. 
                     
             .tarjeta.bg-08.p-4
               .row.justify-content-center.mb-3
@@ -603,7 +597,7 @@
                   img(src='@/assets/curso/tema2/34.svg', style="width:128px ").img100.m-auto
               p.text-center
                   b Capacitación permanente
-              p.text-center.mb-0 Actualización sobre cambios normativos, procedimientos aduaneros y obligaciones comerciales. 
+              p.mb-0 Actualización sobre cambios normativos, procedimientos aduaneros y obligaciones comerciales. 
                     
             .tarjeta.bg-08.p-4
               .row.justify-content-center.mb-3
@@ -611,7 +605,7 @@
                   img(src='@/assets/curso/tema2/35.svg', style="width:128px ").img100.m-auto
               p.text-center 
                 b Auditorías internas preventivas
-              p.text-center.mb-0 Revisión periódica de procesos para identificar errores antes de una inspección oficial.  
+              p.mb-0 Revisión periódica de procesos para identificar errores antes de una inspección oficial.  
 
           p.mt-4 La aplicación de buenas prácticas aduaneras permite fortalecer el control documental, prevenir incumplimientos normativos y garantizar operaciones de comercio exterior más seguras, organizadas y ajustadas a la legislación vigente.
 
